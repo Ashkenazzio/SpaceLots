@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SpaceLots/static/css/main.a50e40dd.css",
+    "main.js": "/SpaceLots/static/js/main.fc8ac8ad.js",
+    "static/media/l2.jpg": "/SpaceLots/static/media/l2.153285108d14044e7ac0.jpg",
+    "static/media/l1.jpg": "/SpaceLots/static/media/l1.3d6744b7ea0afe387acc.jpg",
+    "static/media/l3.jpg": "/SpaceLots/static/media/l3.5c9682fa75fa23b9a630.jpg",
+    "static/media/planets-with-houses-animated.svg": "/SpaceLots/static/media/planets-with-houses-animated.adb9de27094a02fd4f8d.svg",
+    "static/media/planets-with-houses.svg": "/SpaceLots/static/media/planets-with-houses.0ebe67ddd9e1c133231c.svg",
+    "static/media/l4.jpg": "/SpaceLots/static/media/l4.d225e0e37f91c69fea1b.jpg",
+    "index.html": "/SpaceLots/index.html",
+    "main.a50e40dd.css.map": "/SpaceLots/static/css/main.a50e40dd.css.map",
+    "main.fc8ac8ad.js.map": "/SpaceLots/static/js/main.fc8ac8ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50e40dd.css",
+    "static/js/main.fc8ac8ad.js"
+  ]
+}
