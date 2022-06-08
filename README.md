@@ -1,8 +1,7 @@
 # SpaceLots
+***! Visit main branch for reference code***
 
 SpaceLots is a fun exercise I built in React.js.
-
-***~Visit main branch for reference code~***
 
 I started by designing the concept and UI in Figma,
 then I used plain HTML and CSS to build the components,
