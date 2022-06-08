@@ -1,0 +1,54 @@
+.lot {
+  display: flex;
+  height: stretch;
+  background-color: var(--bg-light);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  max-width: 40rem;
+}
+.lot img {
+  max-width: 40%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+.lot .card-content {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem 1.5rem;
+  align-items: flex-end;
+  justify-content: center;
+  align-content: space-between;
+}
+
+.lot .text {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.lot .title {
+  font-size: clamp(1.25rem, 5vw, 2.25rem);
+  font-weight: bold;
+  color: var(--color-primary);
+  margin-bottom: 1rem;
+}
+
+.lot .desc {
+  font-size: clamp(0.75rem, 3vw, 1.33rem);
+  color: var(--bg-dark);
+  
+}
+
+.lot .price {
+  width: 50%;
+  font-size: clamp(1.25rem, 5vw, 2.25rem);
+  font-weight: bold;
+  color: var(--color-primary);
+}
+
+@media screen and (max-width: 600px) {
+  .lot .price {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+}

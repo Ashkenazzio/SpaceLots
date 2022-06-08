@@ -1,0 +1,18 @@
+.hero {
+  width: 90%;
+  max-width: 65rem;
+  background-color: rgba(0, 0, 0, 0.55);
+  color: var(--bg-light);
+  border-radius: 0.5rem;
+  margin: 2rem auto;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.hero h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-bottom: 2rem;
+}
+.hero p {
+  font-size: clamp(1rem, 2vw, 1.5rem);
+  line-height: 150%;
+}
